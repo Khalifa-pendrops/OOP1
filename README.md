@@ -2,13 +2,15 @@
 
 ---
 
-## Title of System: Banking System
+## Title of System: 
+
+Banking System
 
 ---
 
 ## Description of System: 
 
-This system allows customers or potential customers to use banking services. New customers can open or create bank accounts, make deposits, carry out transactions such as fund transfers and withdrawals from either type of account, check account balances, and even close their bank accounts if needed. Returning customers can perform transactions, check account balances, and close accounts.
+_This system allows customers or potential customers to use banking services. New customers can open or create bank accounts, make deposits, carry out transactions such as fund transfers and withdrawals from either type of account, check account balances, and even close their bank accounts if needed. Returning customers can perform transactions, check account balances, and close accounts._
 
 ---
 
@@ -19,10 +21,27 @@ This system allows customers or potential customers to use banking services. New
 
 ## PNG or PDF File of Class Diagram: 
 
-This PNG or PDF file of the class diagram for this system is in the *assets* folder of this repository.
+This PNG or PDF file of the class diagram for this system is in the *assets* folder of the file tree.
 
+---
+
+## File Structure
 ```plaintext
 OOP
 assets
 class.js
 README.md 
+
+---
+
+## How to run code:
+
+Fork the repo and navigate to the project directory. On the terminal, run the command
+```
+node class.js
+
+---
+
+## PNG file of the code output:
+
+The output of the code on the terminal can be seen in the *assets* folder in the file tree, saved as *Code output.png*
