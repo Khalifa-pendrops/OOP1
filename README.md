@@ -34,14 +34,14 @@ README.md
 
 ---
 
-## How to run code:
-
-Fork the repo and navigate to the project directory. On the terminal, run the command
-```
-node class.js
-
----
-
 ## PNG file of the code output:
 
 The output of the code on the terminal can be seen in the *assets* folder in the file tree, saved as *Code output.png*
+
+---
+
+## How to run code:
+
+Fork the repo and navigate to the project directory. On the terminal, run the command
+```plaintext
+node class.js
